@@ -1,0 +1,44 @@
+C:\Users\yildi\Desktop\Personel Takip Otomasyon\PersonelTakipUi\PersonelTakipUi\bin\Debug\PersonelTakipUi.exe.config
+C:\Users\yildi\Desktop\Personel Takip Otomasyon\PersonelTakipUi\PersonelTakipUi\bin\Debug\PersonelTakipUi.exe
+C:\Users\yildi\Desktop\Personel Takip Otomasyon\PersonelTakipUi\PersonelTakipUi\bin\Debug\PersonelTakipUi.pdb
+C:\Users\yildi\Desktop\Personel Takip Otomasyon\PersonelTakipUi\PersonelTakipUi\bin\Debug\Guna.UI2.dll
+C:\Users\yildi\Desktop\Personel Takip Otomasyon\PersonelTakipUi\PersonelTakipUi\bin\Debug\MetroFramework.Design.dll
+C:\Users\yildi\Desktop\Personel Takip Otomasyon\PersonelTakipUi\PersonelTakipUi\bin\Debug\MetroFramework.dll
+C:\Users\yildi\Desktop\Personel Takip Otomasyon\PersonelTakipUi\PersonelTakipUi\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\yildi\Desktop\Personel Takip Otomasyon\PersonelTakipUi\PersonelTakipUi\obj\Debug\PersonelTakipUi.csprojAssemblyReference.cache
+C:\Users\yildi\Desktop\Personel Takip Otomasyon\PersonelTakipUi\PersonelTakipUi\obj\Debug\PersonelTakipUi.Properties.Resources.resources
+C:\Users\yildi\Desktop\Personel Takip Otomasyon\PersonelTakipUi\PersonelTakipUi\obj\Debug\PersonelTakipUi.yonetici.resources
+C:\Users\yildi\Desktop\Personel Takip Otomasyon\PersonelTakipUi\PersonelTakipUi\obj\Debug\PersonelTakipUi.csproj.GenerateResource.cache
+C:\Users\yildi\Desktop\Personel Takip Otomasyon\PersonelTakipUi\PersonelTakipUi\obj\Debug\PersonelTakipUi.csproj.CoreCompileInputs.cache
+C:\Users\yildi\Desktop\Personel Takip Otomasyon\PersonelTakipUi\PersonelTakipUi\obj\Debug\PersonelTakipUi.csproj.CopyComplete
+C:\Users\yildi\Desktop\Personel Takip Otomasyon\PersonelTakipUi\PersonelTakipUi\obj\Debug\PersonelTakipUi.exe
+C:\Users\yildi\Desktop\Personel Takip Otomasyon\PersonelTakipUi\PersonelTakipUi\obj\Debug\PersonelTakipUi.pdb
+C:\Users\yildi\Desktop\Personel Takip Otomasyon\PersonelTakipUi\PersonelTakipUi\bin\Debug\MaterialSkin.dll
+C:\Users\yildi\Desktop\Personel Takip Otomasyon\PersonelTakipUi\PersonelTakipUi\bin\Debug\Guna.UI.dll
+C:\Users\yildi\Desktop\Personel Takip Otomasyon\personelTakipUi\PersonelTakipUi\obj\Debug\PersonelTakipUi.icerikKullanici.resources
+C:\Users\yildi\Desktop\Personel Takip Otomasyon\personelTakipUi\PersonelTakipUi\obj\Debug\PersonelTakipUi.icerikPersonel.resources
+C:\Users\yildi\Desktop\Personel Takip Otomasyon\personelTakipUi\PersonelTakipUi\obj\Debug\PersonelTakipUi.raporAl.resources
+C:\Users\yildi\Desktop\Personel Takip Otomasyon\personelTakipUi\PersonelTakipUi\obj\Debug\PersonelTakipUi.giris.resources
+C:\Users\yildi\Desktop\Personel Takip Otomasyon\PersonelTakipUi\PersonelTakipUi\obj\Debug\PersonelTakipUi.girisCikis.resources
+C:\Users\yildi\Desktop\Personel Takip Otomasyon\PersonelTakipUi\PersonelTakipUi\obj\Debug\PersonelTakipUi.iletisim.resources
+C:\Users\yildi\Desktop\VolkaN\benim otosmasyonlarım\Personel Takip Otomasyon\PersonelTakipUi\PersonelTakipUi\bin\Debug\PersonelTakipUi.exe.config
+C:\Users\yildi\Desktop\VolkaN\benim otosmasyonlarım\Personel Takip Otomasyon\PersonelTakipUi\PersonelTakipUi\bin\Debug\PersonelTakipUi.exe
+C:\Users\yildi\Desktop\VolkaN\benim otosmasyonlarım\Personel Takip Otomasyon\PersonelTakipUi\PersonelTakipUi\bin\Debug\PersonelTakipUi.pdb
+C:\Users\yildi\Desktop\VolkaN\benim otosmasyonlarım\Personel Takip Otomasyon\PersonelTakipUi\PersonelTakipUi\bin\Debug\MaterialSkin.dll
+C:\Users\yildi\Desktop\VolkaN\benim otosmasyonlarım\Personel Takip Otomasyon\PersonelTakipUi\PersonelTakipUi\bin\Debug\MetroFramework.Design.dll
+C:\Users\yildi\Desktop\VolkaN\benim otosmasyonlarım\Personel Takip Otomasyon\PersonelTakipUi\PersonelTakipUi\bin\Debug\MetroFramework.dll
+C:\Users\yildi\Desktop\VolkaN\benim otosmasyonlarım\Personel Takip Otomasyon\PersonelTakipUi\PersonelTakipUi\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\yildi\Desktop\VolkaN\benim otosmasyonlarım\Personel Takip Otomasyon\PersonelTakipUi\PersonelTakipUi\obj\Debug\PersonelTakipUi.csprojAssemblyReference.cache
+C:\Users\yildi\Desktop\VolkaN\benim otosmasyonlarım\Personel Takip Otomasyon\PersonelTakipUi\PersonelTakipUi\obj\Debug\PersonelTakipUi.giris.resources
+C:\Users\yildi\Desktop\VolkaN\benim otosmasyonlarım\Personel Takip Otomasyon\PersonelTakipUi\PersonelTakipUi\obj\Debug\PersonelTakipUi.girisCikis.resources
+C:\Users\yildi\Desktop\VolkaN\benim otosmasyonlarım\Personel Takip Otomasyon\PersonelTakipUi\PersonelTakipUi\obj\Debug\PersonelTakipUi.icerikKullanici.resources
+C:\Users\yildi\Desktop\VolkaN\benim otosmasyonlarım\Personel Takip Otomasyon\PersonelTakipUi\PersonelTakipUi\obj\Debug\PersonelTakipUi.icerikPersonel.resources
+C:\Users\yildi\Desktop\VolkaN\benim otosmasyonlarım\Personel Takip Otomasyon\PersonelTakipUi\PersonelTakipUi\obj\Debug\PersonelTakipUi.iletisim.resources
+C:\Users\yildi\Desktop\VolkaN\benim otosmasyonlarım\Personel Takip Otomasyon\PersonelTakipUi\PersonelTakipUi\obj\Debug\PersonelTakipUi.Properties.Resources.resources
+C:\Users\yildi\Desktop\VolkaN\benim otosmasyonlarım\Personel Takip Otomasyon\PersonelTakipUi\PersonelTakipUi\obj\Debug\PersonelTakipUi.raporAl.resources
+C:\Users\yildi\Desktop\VolkaN\benim otosmasyonlarım\Personel Takip Otomasyon\PersonelTakipUi\PersonelTakipUi\obj\Debug\PersonelTakipUi.yonetici.resources
+C:\Users\yildi\Desktop\VolkaN\benim otosmasyonlarım\Personel Takip Otomasyon\PersonelTakipUi\PersonelTakipUi\obj\Debug\PersonelTakipUi.csproj.GenerateResource.cache
+C:\Users\yildi\Desktop\VolkaN\benim otosmasyonlarım\Personel Takip Otomasyon\PersonelTakipUi\PersonelTakipUi\obj\Debug\PersonelTakipUi.csproj.CoreCompileInputs.cache
+C:\Users\yildi\Desktop\VolkaN\benim otosmasyonlarım\Personel Takip Otomasyon\PersonelTakipUi\PersonelTakipUi\obj\Debug\PersonelTakipUi.csproj.CopyComplete
+C:\Users\yildi\Desktop\VolkaN\benim otosmasyonlarım\Personel Takip Otomasyon\PersonelTakipUi\PersonelTakipUi\obj\Debug\PersonelTakipUi.exe
+C:\Users\yildi\Desktop\VolkaN\benim otosmasyonlarım\Personel Takip Otomasyon\PersonelTakipUi\PersonelTakipUi\obj\Debug\PersonelTakipUi.pdb
